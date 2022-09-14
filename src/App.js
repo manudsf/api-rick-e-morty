@@ -6,7 +6,8 @@ function App() {
     
     <div className="App">
 
-      <h1 className="text-center">Rick & Morty WiKi</h1>
+      <h1 className="text-center fantasy my-4">
+        Rick & Morty <span className="text-primary">WiKi</span> </h1>
            
     </div>
   );
